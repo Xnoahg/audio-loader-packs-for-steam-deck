@@ -1,0 +1,10 @@
+{
+    "name": "meow",
+    "description": "Meow - lvsum\n\nIt's a pretty chill meowsynth track.\nI thought it would sound good as menu music\n\nOfficial Video: https://youtube.com/watch?v=cwyTleTL06Y",
+    "author": "xnoahg",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+}
